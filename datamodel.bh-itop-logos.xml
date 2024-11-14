@@ -2,7 +2,7 @@
 <itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <branding>
     <main_logo _delta="define">bh-itop-logos/assets/img/LogoBig.png</main_logo>
-    <main_logo_compact _delta="define">bh-itop-logos/assets/img/LogoBig_Compact</main_logo_compact>
+    <main_logo_compact _delta="define">bh-itop-logos/assets/img/LogoBig_Compact.png</main_logo_compact>
     <login_logo _delta="define">bh-itop-logos/assets/img/LogoBig.png</login_logo>
   </branding>
 </itop_design>
