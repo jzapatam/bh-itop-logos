@@ -3,6 +3,6 @@
   <branding>
     <main_logo _delta="define">bh-itop-logos/assets/img/LogoBig.png</main_logo>
     <main_logo_compact _delta="define">bh-itop-logos/assets/img/LogoBig_Compact.png</main_logo_compact>
-    <login_logo _delta="define">bh-itop-logos/assets/img/LogoBig.png</login_logo>
+    <login_logo _delta="define">bh-itop-logos/assets/img/LogoBig_Login.png</login_logo>
   </branding>
 </itop_design>
