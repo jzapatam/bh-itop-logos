@@ -1,0 +1,16 @@
+{
+  "config": {
+    "classmap-authoritative": true
+  },
+  "autoload": {
+    "psr-4": {
+      "BigHolding\\iTop\\Extension\\": "src"
+    }
+  },
+  "name": "bigholding/bh-itop-logos",
+  "type": "itop-extension",
+  "description": "Bigholding logos for Itop",
+  "require": {
+    "composer-runtime-api": "^2.0"
+  }
+}
